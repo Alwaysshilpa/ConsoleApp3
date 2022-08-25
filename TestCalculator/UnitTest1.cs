@@ -1,6 +1,6 @@
 
 using ConsoleApp3;
-namespace TUnitTest1
+namespace UnitTest1
 {
     [TestClass]
     public class TestCalculator
